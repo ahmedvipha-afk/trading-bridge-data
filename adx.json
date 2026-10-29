@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-10-29T05:55:01Z",
- "uae_time": "2026-10-29 09:55",
+ "timestamp": "2026-10-29T06:10:02Z",
+ "uae_time": "2026-10-29 10:10",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
- "count": 115,
+ "count": 112,
  "data": [
   {
    "symbol": "ADX:2POINTZERO",
@@ -508,24 +508,6 @@
    "EMA200": 2.625221611001171,
    "market_cap_basic": 3039999962,
    "sector": "Consumer Durables"
-  },
-  {
-   "symbol": "ADX:AWNIC",
-   "name": "AWNIC",
-   "description": "Al Wathba National Insurance Co.",
-   "close": 3.24,
-   "change": -0.6134969325153244,
-   "change_abs": -0.019999999999999574,
-   "open": 3.24,
-   "high": 3.24,
-   "low": 3.24,
-   "volume": 10,
-   "RSI": 48.69211909822844,
-   "SMA20": 3.241500000000014,
-   "SMA50": 3.4204000000000008,
-   "EMA200": 4.867163469679252,
-   "market_cap_basic": 670680002,
-   "sector": "Finance"
   },
   {
    "symbol": "ADX:BONDAE",
@@ -1212,24 +1194,6 @@
    "sector": "Health Technology"
   },
   {
-   "symbol": "ADX:KDEF",
-   "name": "KDEF",
-   "description": "PLUS Korea Defense Industry Index ETF",
-   "close": null,
-   "change": null,
-   "change_abs": null,
-   "open": null,
-   "high": null,
-   "low": null,
-   "volume": null,
-   "RSI": null,
-   "SMA20": null,
-   "SMA50": null,
-   "EMA200": null,
-   "market_cap_basic": null,
-   "sector": null
-  },
-  {
    "symbol": "ADX:KICO",
    "name": "KICO",
    "description": "AL KHALEEJ Investment",
@@ -1246,24 +1210,6 @@
    "EMA200": 4.946911112471314,
    "market_cap_basic": 470400002,
    "sector": "Finance"
-  },
-  {
-   "symbol": "ADX:KMCA",
-   "name": "KMCA",
-   "description": "PLUS Korea Manufacturing Core Alliance Index ETF",
-   "close": null,
-   "change": null,
-   "change_abs": null,
-   "open": null,
-   "high": null,
-   "low": null,
-   "volume": null,
-   "RSI": null,
-   "SMA20": null,
-   "SMA50": null,
-   "EMA200": null,
-   "market_cap_basic": null,
-   "sector": null
   },
   {
    "symbol": "ADX:KRBN",
