@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-10-30T05:55:02Z",
- "uae_time": "2026-10-30 09:55",
+ "timestamp": "2026-10-30T06:10:02Z",
+ "uae_time": "2026-10-30 10:10",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
- "count": 112,
+ "count": 111,
  "data": [
   {
    "symbol": "ADX:2POINTZERO",
@@ -1480,24 +1480,6 @@
    "EMA200": 48.21342545999728,
    "market_cap_basic": 6295204234,
    "sector": "Industrial Services"
-  },
-  {
-   "symbol": "ADX:ORDS",
-   "name": "ORDS",
-   "description": "OOREDOO",
-   "close": 13,
-   "change": -3.5608308605341277,
-   "change_abs": -0.4800000000000004,
-   "open": 13,
-   "high": 13,
-   "low": 13,
-   "volume": 30,
-   "RSI": 47.29017991638221,
-   "SMA20": 13.348999999999998,
-   "SMA50": 13.129200000000008,
-   "EMA200": 11.412055431587667,
-   "market_cap_basic": 38267700835.44801,
-   "sector": "Communications"
   },
   {
    "symbol": "ADX:PALMS",
