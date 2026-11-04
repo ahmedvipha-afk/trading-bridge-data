@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-11-04T05:55:02Z",
- "uae_time": "2026-11-04 09:55",
+ "timestamp": "2026-11-04T06:10:01Z",
+ "uae_time": "2026-11-04 10:10",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
- "count": 113,
+ "count": 111,
  "data": [
   {
    "symbol": "ADX:2POINTZERO",
@@ -652,24 +652,6 @@
    "EMA200": 0.8535345085212993,
    "market_cap_basic": 5659257297,
    "sector": "Energy Minerals"
-  },
-  {
-   "symbol": "ADX:DHAFRA",
-   "name": "DHAFRA",
-   "description": "Al Dhafra Insurance Co.",
-   "close": 8.51,
-   "change": -4.916201117318431,
-   "change_abs": -0.4399999999999995,
-   "open": 8.51,
-   "high": 8.51,
-   "low": 8.51,
-   "volume": 1,
-   "RSI": 69.12143849184233,
-   "SMA20": 6.307,
-   "SMA50": 5.4411999999999985,
-   "EMA200": 4.807259147096827,
-   "market_cap_basic": 851000023,
-   "sector": "Finance"
   },
   {
    "symbol": "ADX:E7",
@@ -1858,24 +1840,6 @@
    "EMA200": 3.697274555150339,
    "market_cap_basic": null,
    "sector": "Miscellaneous"
-  },
-  {
-   "symbol": "ADX:TKFL",
-   "name": "TKFL",
-   "description": "Abu Dhabi National Takaful Co.",
-   "close": 6,
-   "change": 0,
-   "change_abs": 0,
-   "open": 6,
-   "high": 6,
-   "low": 6,
-   "volume": 1,
-   "RSI": 57.35265314612445,
-   "SMA20": 5.831499999999999,
-   "SMA50": 5.373199999999997,
-   "EMA200": 5.503324073078566,
-   "market_cap_basic": 630000000,
-   "sector": "Finance"
   },
   {
    "symbol": "ADX:TURKI",
