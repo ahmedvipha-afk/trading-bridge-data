@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-11-06T05:55:01Z",
- "uae_time": "2026-11-06 09:55",
+ "timestamp": "2026-11-06T06:10:01Z",
+ "uae_time": "2026-11-06 10:10",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
- "count": 111,
+ "count": 112,
  "data": [
   {
    "symbol": "ADX:2POINTZERO",
@@ -688,6 +688,24 @@
    "EMA200": 22.75883794559273,
    "market_cap_basic": 609599991,
    "sector": "Consumer Services"
+  },
+  {
+   "symbol": "ADX:EIC",
+   "name": "EIC",
+   "description": "Emirates Insurance Co.",
+   "close": 7.41,
+   "change": -4.9999999999999964,
+   "change_abs": -0.3899999999999997,
+   "open": 7.41,
+   "high": 7.41,
+   "low": 7.41,
+   "volume": 283587,
+   "RSI": 45.33908049169055,
+   "SMA20": 7.806999999999998,
+   "SMA50": 7.4064,
+   "EMA200": 7.274007094993184,
+   "market_cap_basic": 1111499977,
+   "sector": "Finance"
   },
   {
    "symbol": "ADX:EMOBILITY",
