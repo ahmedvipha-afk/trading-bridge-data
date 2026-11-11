@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-11-11T05:55:02Z",
- "uae_time": "2026-11-11 09:55",
+ "timestamp": "2026-11-11T06:10:02Z",
+ "uae_time": "2026-11-11 10:10",
  "exchange": "DFM",
  "source": "tradingview scanner (may be delayed)",
- "count": 66,
+ "count": 67,
  "data": [
   {
    "symbol": "DFM:AIRARABIA",
@@ -418,6 +418,24 @@
    "EMA200": 16.40854158738703,
    "market_cap_basic": 1689999962,
    "sector": "Finance"
+  },
+  {
+   "symbol": "DFM:DIP",
+   "name": "DIP",
+   "description": "DIP Holding PLC",
+   "close": null,
+   "change": null,
+   "change_abs": null,
+   "open": null,
+   "high": null,
+   "low": null,
+   "volume": null,
+   "RSI": null,
+   "SMA20": null,
+   "SMA50": null,
+   "EMA200": null,
+   "market_cap_basic": null,
+   "sector": null
   },
   {
    "symbol": "DFM:DNIR",
