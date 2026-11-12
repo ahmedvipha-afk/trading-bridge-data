@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-11-12T05:55:02Z",
- "uae_time": "2026-11-12 09:55",
+ "timestamp": "2026-11-12T06:10:02Z",
+ "uae_time": "2026-11-12 10:10",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
- "count": 114,
+ "count": 113,
  "data": [
   {
    "symbol": "ADX:2POINTZERO",
@@ -1696,24 +1696,6 @@
    "EMA200": 2.3945223543468566,
    "market_cap_basic": 2325267084,
    "sector": "Producer Manufacturing"
-  },
-  {
-   "symbol": "ADX:RAKNIC",
-   "name": "RAKNIC",
-   "description": "Ras Alkhaima National Insurance Co.",
-   "close": 2.97,
-   "change": -1.655629139072842,
-   "change_abs": -0.04999999999999982,
-   "open": 2.97,
-   "high": 2.97,
-   "low": 2.97,
-   "volume": 125,
-   "RSI": 43.49147042035005,
-   "SMA20": 3.127500000000006,
-   "SMA50": 3.3286000000000002,
-   "EMA200": 3.3842542975607546,
-   "market_cap_basic": 360186758,
-   "sector": "Finance"
   },
   {
    "symbol": "ADX:RAKPROP",
