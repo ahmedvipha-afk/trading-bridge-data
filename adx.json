@@ -1,6 +1,6 @@
 {
- "timestamp": "2026-11-11T11:25:02Z",
- "uae_time": "2026-11-11 15:25",
+ "timestamp": "2026-11-12T05:55:02Z",
+ "uae_time": "2026-11-12 09:55",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
  "count": 114,
@@ -434,7 +434,7 @@
    "SMA20": 2.458500000000007,
    "SMA50": 2.4223999999999997,
    "EMA200": 2.186661051833548,
-   "market_cap_basic": 21434136345.24986,
+   "market_cap_basic": 21429354224.21099,
    "sector": "Consumer Services"
   },
   {
@@ -956,7 +956,7 @@
    "SMA20": 1.6319999999999997,
    "SMA50": 1.7978000000000003,
    "EMA200": 1.8759374156887145,
-   "market_cap_basic": 7037884910.024279,
+   "market_cap_basic": 7024182480.253808,
    "sector": "Finance"
   },
   {
@@ -1532,7 +1532,7 @@
    "SMA20": 13.139999999999997,
    "SMA50": 13.117200000000008,
    "EMA200": 11.442847806721984,
-   "market_cap_basic": 42341666469.619896,
+   "market_cap_basic": 42336994027.94372,
    "sector": "Communications"
   },
   {

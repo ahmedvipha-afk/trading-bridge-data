@@ -1,6 +1,6 @@
 {
- "timestamp": "2026-11-11T11:25:02Z",
- "uae_time": "2026-11-11 15:25",
+ "timestamp": "2026-11-12T05:55:02Z",
+ "uae_time": "2026-11-12 09:55",
  "exchange": "DFM",
  "source": "tradingview scanner (may be delayed)",
  "count": 67,
@@ -435,7 +435,7 @@
    "SMA50": null,
    "EMA200": null,
    "market_cap_basic": null,
-   "sector": null
+   "sector": "Miscellaneous"
   },
   {
    "symbol": "DFM:DNIR",
@@ -578,7 +578,7 @@
    "SMA20": 0.3681499999999995,
    "SMA50": 0.39797999999999967,
    "EMA200": 0.40119136246868137,
-   "market_cap_basic": 112574917.61174262,
+   "market_cap_basic": 112355739.56006768,
    "sector": "Finance"
   },
   {
@@ -704,7 +704,7 @@
    "SMA20": 1.6047499999999992,
    "SMA50": 1.7612000000000012,
    "EMA200": 1.8774835590653154,
-   "market_cap_basic": 7037884910.024279,
+   "market_cap_basic": 7024182480.253808,
    "sector": "Finance"
   },
   {
@@ -722,7 +722,7 @@
    "SMA20": 5.911000000000006,
    "SMA50": 5.689400000000003,
    "EMA200": 5.342289686104006,
-   "market_cap_basic": 2918991272.4434385,
+   "market_cap_basic": 2913308134.1962776,
    "sector": "Finance"
   },
   {
@@ -776,7 +776,7 @@
    "SMA20": 0.8705000000000007,
    "SMA50": 0.8832199999999992,
    "EMA200": 0.8713565349938405,
-   "market_cap_basic": 422181181.2515174,
+   "market_cap_basic": 421359214.4162437,
    "sector": "Finance"
   },
   {
@@ -794,7 +794,7 @@
    "SMA20": 1.7822500000000001,
    "SMA50": 1.8533000000000022,
    "EMA200": 1.7827040435063342,
-   "market_cap_basic": 4973608384.622005,
+   "market_cap_basic": 4963925003.824027,
    "sector": "Transportation"
   },
   {
@@ -812,7 +812,7 @@
    "SMA20": 1.8499999999999936,
    "SMA50": 1.849999999999998,
    "EMA200": 1.7777299122468078,
-   "market_cap_basic": 163084317.40426,
+   "market_cap_basic": 163066320.9004635,
    "sector": "Finance"
   },
   {
@@ -866,7 +866,7 @@
    "SMA20": 2.218000000000002,
    "SMA50": 2.2209999999999996,
    "EMA200": 1.9965465827114017,
-   "market_cap_basic": 413753598.8654673,
+   "market_cap_basic": 412948040.1353638,
    "sector": "Process Industries"
   },
   {
@@ -920,7 +920,7 @@
    "SMA20": 2.0550000000000015,
    "SMA50": 2.1105999999999994,
    "EMA200": 2.065149024777399,
-   "market_cap_basic": 6711761097.271825,
+   "market_cap_basic": 6711020448.287354,
    "sector": "Finance"
   },
   {
