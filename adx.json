@@ -1,9 +1,9 @@
 {
- "timestamp": "2026-11-16T11:25:01Z",
- "uae_time": "2026-11-16 15:25",
+ "timestamp": "2026-11-17T05:55:02Z",
+ "uae_time": "2026-11-17 09:55",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
- "count": 115,
+ "count": 116,
  "data": [
   {
    "symbol": "ADX:2POINTZERO",
@@ -340,10 +340,10 @@
    "high": 2.21,
    "low": 2.19,
    "volume": 14721,
-   "RSI": 45.67269338110352,
-   "SMA20": 2.196,
-   "SMA50": 2.2428,
-   "EMA200": 2.2253699326730785,
+   "RSI": 46.062517256542904,
+   "SMA20": 2.1955,
+   "SMA50": 2.2446,
+   "EMA200": 2.225327399433112,
    "market_cap_basic": null,
    "sector": "Miscellaneous"
   },
@@ -452,7 +452,7 @@
    "SMA20": 2.493,
    "SMA50": 2.4374000000000002,
    "EMA200": 2.2000603426296164,
-   "market_cap_basic": 21518194826.28205,
+   "market_cap_basic": 21522238839.59276,
    "sector": "Consumer Services"
   },
   {
@@ -974,7 +974,7 @@
    "SMA20": 1.624,
    "SMA50": 1.7884,
    "EMA200": 1.8726280423535482,
-   "market_cap_basic": 7203487816.38524,
+   "market_cap_basic": 7201465627.0419,
    "sector": "Finance"
   },
   {
@@ -1012,6 +1012,24 @@
    "EMA200": 2.248471852686256,
    "market_cap_basic": 1607507083,
    "sector": "Health Services"
+  },
+  {
+   "symbol": "ADX:GQGU",
+   "name": "GQGU",
+   "description": "GQG US Equity ETF",
+   "close": null,
+   "change": null,
+   "change_abs": null,
+   "open": null,
+   "high": null,
+   "low": null,
+   "volume": null,
+   "RSI": null,
+   "SMA20": null,
+   "SMA50": null,
+   "EMA200": null,
+   "market_cap_basic": null,
+   "sector": null
   },
   {
    "symbol": "ADX:GRMNY",
@@ -1330,10 +1348,10 @@
    "high": 3.94,
    "low": 3.94,
    "volume": 387,
-   "RSI": 52.21546631966208,
-   "SMA20": 3.911,
-   "SMA50": 3.9676,
-   "EMA200": 3.891198299018737,
+   "RSI": 51.963563044766836,
+   "SMA20": 3.906,
+   "SMA50": 3.9666,
+   "EMA200": 3.8914819621420316,
    "market_cap_basic": null,
    "sector": "Miscellaneous"
   },
@@ -1798,10 +1816,10 @@
    "high": 3.23,
    "low": 3.18,
    "volume": 1619,
-   "RSI": 53.07000739294516,
+   "RSI": 53.32592377278593,
    "SMA20": 3.117,
-   "SMA50": 3.2354000000000003,
-   "EMA200": 3.3435135080685248,
+   "SMA50": 3.2312,
+   "EMA200": 3.341591980232468,
    "market_cap_basic": null,
    "sector": "Miscellaneous"
   },
