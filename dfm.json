@@ -1,6 +1,6 @@
 {
- "timestamp": "2026-11-17T11:25:01Z",
- "uae_time": "2026-11-17 15:25",
+ "timestamp": "2026-11-18T05:55:02Z",
+ "uae_time": "2026-11-18 09:55",
  "exchange": "DFM",
  "source": "tradingview scanner (may be delayed)",
  "count": 64,
@@ -560,7 +560,7 @@
    "SMA20": 0.36545,
    "SMA50": 0.395,
    "EMA200": 0.4001148238151328,
-   "market_cap_basic": 108197056.69977556,
+   "market_cap_basic": 108073728.67873171,
    "sector": "Finance"
   },
   {
@@ -686,7 +686,7 @@
    "SMA20": 1.5875,
    "SMA50": 1.7389,
    "EMA200": 1.868221875449385,
-   "market_cap_basic": 7022547531.247101,
+   "market_cap_basic": 7014542906.018539,
    "sector": "Finance"
   },
   {
@@ -704,7 +704,7 @@
    "SMA20": 5.921,
    "SMA50": 5.7654,
    "EMA200": 5.36611854297489,
-   "market_cap_basic": 2837772677.5900373,
+   "market_cap_basic": 2834538052.7381744,
    "sector": "Finance"
   },
   {
@@ -758,7 +758,7 @@
    "SMA20": 0.8793,
    "SMA50": 0.8856,
    "EMA200": 0.873224677236131,
-   "market_cap_basic": 420668685.2367287,
+   "market_cap_basic": 420189187.56786585,
    "sector": "Finance"
   },
   {
@@ -776,7 +776,7 @@
    "SMA20": 1.7845,
    "SMA50": 1.8558000000000001,
    "EMA200": 1.7854150250578393,
-   "market_cap_basic": 5083078959.128866,
+   "market_cap_basic": 5077285030.089017,
    "sector": "Transportation"
   },
   {
@@ -830,7 +830,7 @@
    "SMA20": 2.24,
    "SMA50": 2.2212,
    "EMA200": 2.006092605713885,
-   "market_cap_basic": 407157437.20965296,
+   "market_cap_basic": 406693340.2876481,
    "sector": "Process Industries"
   },
   {
@@ -866,7 +866,7 @@
    "SMA20": 2.054,
    "SMA50": 2.1022,
    "EMA200": 2.065434827041085,
-   "market_cap_basic": 6618222097.285067,
+   "market_cap_basic": 6616491960.515707,
    "sector": "Finance"
   },
   {
