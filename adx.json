@@ -1,6 +1,6 @@
 {
- "timestamp": "2026-11-19T05:55:11Z",
- "uae_time": "2026-11-19 09:55",
+ "timestamp": "2026-11-19T06:10:01Z",
+ "uae_time": "2026-11-19 10:10",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
  "count": 115,
@@ -528,24 +528,6 @@
    "sector": "Consumer Durables"
   },
   {
-   "symbol": "ADX:AWNIC",
-   "name": "AWNIC",
-   "description": "Al Wathba National Insurance Co.",
-   "close": 3.08,
-   "change": -4.938271604938276,
-   "change_abs": -0.16000000000000014,
-   "open": 3.08,
-   "high": 3.08,
-   "low": 3.08,
-   "volume": 50,
-   "RSI": 45.13312902780788,
-   "SMA20": 3.2255000000000003,
-   "SMA50": 3.3954000000000004,
-   "EMA200": 4.849380748587916,
-   "market_cap_basic": 637559984,
-   "sector": "Finance"
-  },
-  {
    "symbol": "ADX:BONDAE",
    "name": "BONDAE",
    "description": "Lunate JP Morgan UAE Bond UCITS ETF",
@@ -724,24 +706,6 @@
    "EMA200": 22.60357909597872,
    "market_cap_basic": 591599979,
    "sector": "Consumer Services"
-  },
-  {
-   "symbol": "ADX:EIC",
-   "name": "EIC",
-   "description": "Emirates Insurance Co.",
-   "close": 7.05,
-   "change": -4.8582995951417045,
-   "change_abs": -0.3600000000000003,
-   "open": 7.05,
-   "high": 7.05,
-   "low": 7.05,
-   "volume": 11099,
-   "RSI": 40.49462808071355,
-   "SMA20": 7.7795000000000005,
-   "SMA50": 7.4014,
-   "EMA200": 7.271778168674844,
-   "market_cap_basic": 1057500029,
-   "sector": "Finance"
   },
   {
    "symbol": "ADX:EMOBILITY",
@@ -924,6 +888,24 @@
    "sector": "Finance"
   },
   {
+   "symbol": "ADX:FNF",
+   "name": "FNF",
+   "description": "Foodco National Foodstuff PJSC",
+   "close": 1.41,
+   "change": 4.444444444444431,
+   "change_abs": 0.05999999999999983,
+   "open": 1.41,
+   "high": 1.41,
+   "low": 1.41,
+   "volume": 73,
+   "RSI": 57.1155592010919,
+   "SMA20": 1.347,
+   "SMA50": 1.3672,
+   "EMA200": 1.4667941568083702,
+   "market_cap_basic": 394799991,
+   "sector": "Distribution Services"
+  },
+  {
    "symbol": "ADX:GCCDIV",
    "name": "GCCDIV",
    "description": "Lunate Solactive GCC Shariah Dividend ETF",
@@ -1012,6 +994,24 @@
    "EMA200": 2.248984570569975,
    "market_cap_basic": 1607507083,
    "sector": "Health Services"
+  },
+  {
+   "symbol": "ADX:GQGU",
+   "name": "GQGU",
+   "description": "GQG US Equity ETF",
+   "close": null,
+   "change": null,
+   "change_abs": null,
+   "open": null,
+   "high": null,
+   "low": null,
+   "volume": null,
+   "RSI": null,
+   "SMA20": null,
+   "SMA50": null,
+   "EMA200": null,
+   "market_cap_basic": null,
+   "sector": "Miscellaneous"
   },
   {
    "symbol": "ADX:GRMNY",
