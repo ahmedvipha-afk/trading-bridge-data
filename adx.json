@@ -1,6 +1,6 @@
 {
- "timestamp": "2026-11-19T11:25:01Z",
- "uae_time": "2026-11-19 15:25",
+ "timestamp": "2026-11-20T05:55:01Z",
+ "uae_time": "2026-11-20 09:55",
  "exchange": "ADX",
  "source": "tradingview scanner (may be delayed)",
  "count": 115,
@@ -452,7 +452,7 @@
    "SMA20": 2.539,
    "SMA50": 2.4518,
    "EMA200": 2.2142487601677034,
-   "market_cap_basic": 22020329355.760002,
+   "market_cap_basic": 22022001342.93677,
    "sector": "Consumer Services"
   },
   {
@@ -956,7 +956,7 @@
    "SMA20": 1.612,
    "SMA50": 1.7728,
    "EMA200": 1.8665468378440622,
-   "market_cap_basic": 6928939591.005001,
+   "market_cap_basic": 6925440234.926614,
    "sector": "Finance"
   },
   {
@@ -1312,10 +1312,10 @@
    "high": 3.9,
    "low": 3.9,
    "volume": 300,
-   "RSI": 47.49805279489465,
-   "SMA20": 3.905,
-   "SMA50": 3.9662,
-   "EMA200": 3.8912858781329787,
+   "RSI": 47.821116230373015,
+   "SMA20": 3.901,
+   "SMA50": 3.9648000000000003,
+   "EMA200": 3.891566718737633,
    "market_cap_basic": null,
    "sector": "Miscellaneous"
   },
@@ -1532,7 +1532,7 @@
    "SMA20": 13.145,
    "SMA50": 13.145199999999999,
    "EMA200": 11.491168432337146,
-   "market_cap_basic": 41380744500.20702,
+   "market_cap_basic": 41404902110.51536,
    "sector": "Communications"
   },
   {
@@ -1798,10 +1798,10 @@
    "high": 3.17,
    "low": 3.15,
    "volume": 2717,
-   "RSI": 48.21100676809709,
-   "SMA20": 3.1195,
-   "SMA50": 3.2274000000000003,
-   "EMA200": 3.3398786770877367,
+   "RSI": 48.21093032698482,
+   "SMA20": 3.118,
+   "SMA50": 3.2226,
+   "EMA200": 3.3379951983660296,
    "market_cap_basic": null,
    "sector": "Miscellaneous"
   },
