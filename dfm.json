@@ -1,6 +1,6 @@
 {
- "timestamp": "2026-11-26T11:25:01Z",
- "uae_time": "2026-11-26 15:25",
+ "timestamp": "2026-11-27T05:55:01Z",
+ "uae_time": "2026-11-27 09:55",
  "exchange": "DFM",
  "source": "tradingview scanner (may be delayed)",
  "count": 65,
@@ -38,7 +38,7 @@
    "SMA20": 1.3585,
    "SMA50": 1.3980000000000001,
    "EMA200": 1.4122750952859857,
-   "market_cap_basic": 3703925840,
+   "market_cap_basic": 3785630007,
    "sector": "Finance"
   },
   {
@@ -74,7 +74,7 @@
    "SMA20": 1.2675,
    "SMA50": 1.2734,
    "EMA200": 1.3699718797407583,
-   "market_cap_basic": 6700000167,
+   "market_cap_basic": 6999999881,
    "sector": "Consumer Durables"
   },
   {
@@ -92,7 +92,7 @@
    "SMA20": 0.2694,
    "SMA50": 0.2791,
    "EMA200": 0.2855941100134415,
-   "market_cap_basic": 163200009,
+   "market_cap_basic": 162599999,
    "sector": "Consumer Services"
   },
   {
@@ -146,7 +146,7 @@
    "SMA20": 0.55845,
    "SMA50": 0.60244,
    "EMA200": 0.46668496556672856,
-   "market_cap_basic": 129129006,
+   "market_cap_basic": 128677498.00000001,
    "sector": "Finance"
   },
   {
@@ -218,7 +218,7 @@
    "SMA20": 1.765,
    "SMA50": 1.7343000000000002,
    "EMA200": 1.848050348547919,
-   "market_cap_basic": 2591456929,
+   "market_cap_basic": 2650020872,
    "sector": "Transportation"
   },
   {
@@ -236,7 +236,7 @@
    "SMA20": 1.0118,
    "SMA50": 1.0024,
    "EMA200": 1.0126994960760975,
-   "market_cap_basic": 478399729,
+   "market_cap_basic": 494499759,
    "sector": "Finance"
   },
   {
@@ -308,7 +308,7 @@
    "SMA20": 2.775,
    "SMA50": 2.7284,
    "EMA200": 2.7446664646717434,
-   "market_cap_basic": 143000006676,
+   "market_cap_basic": 142499995232,
    "sector": "Utilities"
   },
   {
@@ -326,7 +326,7 @@
    "SMA20": 0.74495,
    "SMA50": 0.7382,
    "EMA200": 0.8027509771479696,
-   "market_cap_basic": 3465663204,
+   "market_cap_basic": 3452535600,
    "sector": "Finance"
   },
   {
@@ -344,7 +344,7 @@
    "SMA20": 1.308,
    "SMA50": 1.3347,
    "EMA200": 1.4234286216513736,
-   "market_cap_basic": 10754301711,
+   "market_cap_basic": 11234047044,
    "sector": "Finance"
   },
   {
@@ -362,7 +362,7 @@
    "SMA20": 7.778499999999999,
    "SMA50": 7.4088,
    "EMA200": 7.696638674431907,
-   "market_cap_basic": 64465829243,
+   "market_cap_basic": 70753414846,
    "sector": "Finance"
   },
   {
@@ -380,7 +380,7 @@
    "SMA20": 3.746,
    "SMA50": 3.745,
    "EMA200": 3.6693152908516184,
-   "market_cap_basic": 16455315099,
+   "market_cap_basic": 16625396732.000002,
    "sector": "Non-Energy Minerals"
   },
   {
@@ -416,7 +416,7 @@
    "SMA20": null,
    "SMA50": null,
    "EMA200": null,
-   "market_cap_basic": 9977647987,
+   "market_cap_basic": 10021029024,
    "sector": "Miscellaneous"
   },
   {
@@ -488,7 +488,7 @@
    "SMA20": 2.2634999999999996,
    "SMA50": 2.2208,
    "EMA200": 2.281448964842056,
-   "market_cap_basic": 5874999762,
+   "market_cap_basic": 5824999809,
    "sector": "Transportation"
   },
   {
@@ -506,7 +506,7 @@
    "SMA20": 13.017,
    "SMA50": 12.488399999999999,
    "EMA200": 11.598369561030797,
-   "market_cap_basic": 62010152204,
+   "market_cap_basic": 62372784319,
    "sector": "Communications"
   },
   {
@@ -524,7 +524,7 @@
    "SMA20": 1.26775,
    "SMA50": 1.272,
    "EMA200": 1.2607229801897488,
-   "market_cap_basic": 16639999628.000002,
+   "market_cap_basic": 16769999504,
    "sector": "Finance"
   },
   {
@@ -542,7 +542,7 @@
    "SMA20": 50.269999999999996,
    "SMA50": 53.0046,
    "EMA200": 58.94686536892891,
-   "market_cap_basic": 480000000,
+   "market_cap_basic": 455999985,
    "sector": "Finance"
   },
   {
@@ -560,7 +560,7 @@
    "SMA20": 0.37305,
    "SMA50": 0.38914000000000004,
    "EMA200": 0.39919929310454577,
-   "market_cap_basic": 106911813.404451,
+   "market_cap_basic": 106657362.42551313,
    "sector": "Finance"
   },
   {
@@ -578,7 +578,7 @@
    "SMA20": 12.454,
    "SMA50": 11.86,
    "EMA200": 12.138687292091086,
-   "market_cap_basic": 114726717438,
+   "market_cap_basic": 116671240502,
    "sector": "Finance"
   },
   {
@@ -632,7 +632,7 @@
    "SMA20": 1.5685,
    "SMA50": 1.5591,
    "EMA200": 1.591175825563225,
-   "market_cap_basic": 16150000095,
+   "market_cap_basic": 16299999952,
    "sector": "Utilities"
   },
   {
@@ -650,7 +650,7 @@
    "SMA20": 1.62575,
    "SMA50": 1.7293,
    "EMA200": 2.011795498093564,
-   "market_cap_basic": 511793709,
+   "market_cap_basic": 519790478,
    "sector": "Consumer Non-Durables"
   },
   {
@@ -668,7 +668,7 @@
    "SMA20": 2.755,
    "SMA50": 2.8304,
    "EMA200": 3.160170451131494,
-   "market_cap_basic": 9180835388,
+   "market_cap_basic": 9147450564,
    "sector": "Transportation"
   },
   {
@@ -686,7 +686,7 @@
    "SMA20": 1.589,
    "SMA50": 1.6927,
    "EMA200": 1.8508004793137445,
-   "market_cap_basic": 6699527296.122863,
+   "market_cap_basic": 6772696307.680792,
    "sector": "Finance"
   },
   {
@@ -704,7 +704,7 @@
    "SMA20": 5.956,
    "SMA50": 5.8984000000000005,
    "EMA200": 5.405592855487797,
-   "market_cap_basic": 2677291327.4828033,
+   "market_cap_basic": 2698035344.2279115,
    "sector": "Finance"
   },
   {
@@ -722,7 +722,7 @@
    "SMA20": 0.1922,
    "SMA50": 0.19582,
    "EMA200": 0.19911896521632974,
-   "market_cap_basic": 567481114,
+   "market_cap_basic": 570391280,
    "sector": "Finance"
   },
   {
@@ -740,7 +740,7 @@
    "SMA20": 301.815,
    "SMA50": 311.124,
    "EMA200": 281.0084066275051,
-   "market_cap_basic": 60162887621,
+   "market_cap_basic": 59982339996,
    "sector": "Finance"
   },
   {
@@ -758,7 +758,7 @@
    "SMA20": 0.8999499999999999,
    "SMA50": 0.8895399999999999,
    "EMA200": 0.8763193968481676,
-   "market_cap_basic": 423005235.71087,
+   "market_cap_basic": 421998479.8352093,
    "sector": "Finance"
   },
   {
@@ -776,7 +776,7 @@
    "SMA20": 1.81325,
    "SMA50": 1.8481999999999998,
    "EMA200": 1.7894347606646213,
-   "market_cap_basic": 3814184971.5409236,
+   "market_cap_basic": 3865029802.3324504,
    "sector": "Transportation"
   },
   {
@@ -830,7 +830,7 @@
    "SMA20": 2.2380000000000004,
    "SMA50": 2.2186000000000003,
    "EMA200": 2.0215083084103336,
-   "market_cap_basic": 355380990.3976458,
+   "market_cap_basic": 348862630.28249836,
    "sector": "Process Industries"
   },
   {
@@ -866,7 +866,7 @@
    "SMA20": 6.531499999999999,
    "SMA50": 6.224,
    "EMA200": 5.87278409805093,
-   "market_cap_basic": 19859999657,
+   "market_cap_basic": 19979999542,
    "sector": "Consumer Services"
   },
   {
@@ -884,7 +884,7 @@
    "SMA20": 2.043,
    "SMA50": 2.084,
    "EMA200": 2.0624585931314163,
-   "market_cap_basic": 6432920165.133715,
+   "market_cap_basic": 6401757116.100199,
    "sector": "Finance"
   },
   {
@@ -920,7 +920,7 @@
    "SMA20": 5.4525,
    "SMA50": 5.375,
    "EMA200": 5.544381487227378,
-   "market_cap_basic": 41849999428,
+   "market_cap_basic": 43125000000,
    "sector": "Transportation"
   },
   {
@@ -1028,7 +1028,7 @@
    "SMA20": 2.3,
    "SMA50": 2.3409999999999997,
    "EMA200": 2.544155350074208,
-   "market_cap_basic": 7056272125,
+   "market_cap_basic": 7198535539,
    "sector": "Utilities"
   },
   {
@@ -1046,7 +1046,7 @@
    "SMA20": 1.707,
    "SMA50": 1.7702,
    "EMA200": 1.6672903973270525,
-   "market_cap_basic": 357055114,
+   "market_cap_basic": 353895362,
    "sector": "Finance"
   },
   {
@@ -1064,7 +1064,7 @@
    "SMA20": 1.1612500000000001,
    "SMA50": 1.1323,
    "EMA200": 1.1050287927763074,
-   "market_cap_basic": 27713007211,
+   "market_cap_basic": 27363681165,
    "sector": "Transportation"
   },
   {
@@ -1082,7 +1082,7 @@
    "SMA20": 3.3289999999999997,
    "SMA50": 3.29,
    "EMA200": 3.343234903878746,
-   "market_cap_basic": 16399999856.999998,
+   "market_cap_basic": 16449999809,
    "sector": "Finance"
   },
   {
@@ -1100,7 +1100,7 @@
    "SMA20": 10.870000000000001,
    "SMA50": 11.3112,
    "EMA200": 12.116128958084689,
-   "market_cap_basic": 313389990,
+   "market_cap_basic": 314599988,
    "sector": "Consumer Non-Durables"
   },
   {
@@ -1118,7 +1118,7 @@
    "SMA20": 4.3325,
    "SMA50": 4.664,
    "EMA200": 5.234749867462371,
-   "market_cap_basic": 167404706,
+   "market_cap_basic": 159248095,
    "sector": "Consumer Non-Durables"
   },
   {
@@ -1154,7 +1154,7 @@
    "SMA20": 0.58785,
    "SMA50": 0.5871799999999999,
    "EMA200": 0.6476997947877026,
-   "market_cap_basic": 2655225360,
+   "market_cap_basic": 2659514845,
    "sector": "Finance"
   },
   {
@@ -1172,7 +1172,7 @@
    "SMA20": 0.76395,
    "SMA50": 0.70286,
    "EMA200": 0.6760827333562548,
-   "market_cap_basic": 207344529,
+   "market_cap_basic": 238303127,
    "sector": "Finance"
   }
  ]
